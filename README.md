@@ -1,5 +1,11 @@
+Overview
+======
+
 Artificial Intelligence Course, National Technical University of Athens (NTUA).
 Homework Assignments.
+
+Copyright
+=======
 
 The source code in this project is licensed under the MIT license:
 
